@@ -1,0 +1,14 @@
+{
+    "name": "Trump Cat",
+    "symbol": "TRUMPCAT",
+    "description": "A trump. Let's spread trump vibes across the Solana ecosystem",
+    "image": "https://s6.imgcdn.dev/YjAEiL.jpg",
+    "external_url": "https://ghiblipepe.pages.dev",
+    "properties": {
+        "category": "meme",
+        "socials": {
+            "twitter": "https://x.com/GhiblipepeTKN",
+            "telegram": "https://t.me/ghiblipepeTKN"
+        }
+    }
+}
